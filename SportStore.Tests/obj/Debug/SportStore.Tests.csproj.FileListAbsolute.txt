@@ -47,3 +47,6 @@ E:\Repos\WEB\SportStore\SportStore.Tests\obj\Debug\SportStore.Tests.csprojResolv
 E:\Repos\WEB\SportStore\SportStore.Tests\obj\Debug\SportStore.Tests.csproj.CoreCompileInputs.cache
 E:\Repos\WEB\SportStore\SportStore.Tests\obj\Debug\SportStore.Tests.dll
 E:\Repos\WEB\SportStore\SportStore.Tests\obj\Debug\SportStore.Tests.pdb
+E:\Repos\WEB\SportStore\SportStore.Tests\bin\Debug\EntityFramework.dll
+E:\Repos\WEB\SportStore\SportStore.Tests\bin\Debug\SportStore.Domain.dll.config
+E:\Repos\WEB\SportStore\SportStore.Tests\bin\Debug\EntityFramework.xml

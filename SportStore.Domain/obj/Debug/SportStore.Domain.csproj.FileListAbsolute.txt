@@ -17,3 +17,8 @@ E:\Repos\WEB\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.csprojReso
 E:\Repos\WEB\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.csproj.CoreCompileInputs.cache
 E:\Repos\WEB\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.dll
 E:\Repos\WEB\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.pdb
+E:\Repos\WEB\SportStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll.config
+E:\Repos\WEB\SportStore\SportStore.Domain\bin\Debug\EntityFramework.dll
+E:\Repos\WEB\SportStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Repos\WEB\SportStore\SportStore.Domain\bin\Debug\EntityFramework.xml
+E:\Repos\WEB\SportStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.xml

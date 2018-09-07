@@ -39,3 +39,8 @@ E:\Repos\WEB\SportStore\SportStore\obj\Debug\SportStore.WebUI.csprojResolveAssem
 E:\Repos\WEB\SportStore\SportStore\obj\Debug\SportStore.WebUI.csproj.CoreCompileInputs.cache
 E:\Repos\WEB\SportStore\SportStore\obj\Debug\SportStore.dll
 E:\Repos\WEB\SportStore\SportStore\obj\Debug\SportStore.pdb
+E:\Repos\WEB\SportStore\SportStore\bin\EntityFramework.dll
+E:\Repos\WEB\SportStore\SportStore\bin\EntityFramework.SqlServer.dll
+E:\Repos\WEB\SportStore\SportStore\bin\SportStore.Domain.dll.config
+E:\Repos\WEB\SportStore\SportStore\bin\EntityFramework.xml
+E:\Repos\WEB\SportStore\SportStore\bin\EntityFramework.SqlServer.xml

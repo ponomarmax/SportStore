@@ -1,4 +1,5 @@
 ﻿using SportStore.Domain.Abstract;
+using SportStore.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,10 +15,20 @@ namespace SportStore.Controllers
         {
             this.repository = productRepository;
         }
-        // GET: Product
-        public ActionResult List()
+        public int PageSize = 4;
+        public ViewResult List(int page = 1)
         {
-            return View(repository.Products);
+            ProductsListViewModel model = new ProductsListViewModel
+            {
+                Products = repository.Products.OrderBy(a => a.ProductID).Skip((page - 1) * PageSize).Take(PageSize),
+                PagingInfo = new PagingInfo
+                {
+                    CurrentPage = page,
+                    ItemsPerPage = PageSize,
+                    TotalItems = repository.Products.Count()
+                }
+            };
+            return View(model);
         }
     }
 }
